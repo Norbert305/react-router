@@ -25,3 +25,6 @@ const Home = () => {
 };
 
 export default Home;
+
+//To add react-router-v6 for future projects use command in terminal bellow:
+// $ npm install react-router-dom@6
